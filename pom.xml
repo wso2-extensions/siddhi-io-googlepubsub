@@ -203,7 +203,7 @@ under the License.
         <jacoco.plugin.version>0.7.9</jacoco.plugin.version>
         <google.cloud.version>1.63.0</google.cloud.version>
         <commons.codec.version>1.9</commons.codec.version>
-        <guava.version>23.6-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <grpc.version>1.18.0</grpc.version>
         <netty.version>4.1.30.Final</netty.version>
         <netty.tcnative.version>2.0.17.Final</netty.tcnative.version>
